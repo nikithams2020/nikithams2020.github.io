@@ -1,1 +1,5 @@
-# nikithams2020.github.io
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+## Education
